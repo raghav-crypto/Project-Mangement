@@ -1,0 +1,30 @@
+export const SET_ALERT = 'SET_ALERT'
+
+// Auth and Register
+export const REMOVE_ALERT = 'REMOVE_ALERT'
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS'
+export const REGISTER_FAIL = 'REGISTER_FAIL'
+export const USER_LOADED = 'USER_LOADED'
+export const AUTH_ERROR = 'AUTH_ERROR'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAIL = 'LOGIN_FAIL'
+export const LOGOUT = 'LOGOUT'
+
+// Project
+export const CLEAR_PROFILE = 'CLEAR_PROFILE'
+export const CREATE_PROJECT = 'CREATE_PROJECT'
+export const DELETE_PROJECT = 'DELETE_PROJECT'
+export const GET_CURRENT_PROJECT = 'GET_CURRENT_PROJECT'
+export const GET_USER_PROJECTS = 'GET_USER_PROJECTS'
+export const PROJECT_ERROR = 'PROJECT_ERROR'
+export const CLEAR_PROJECT = 'CLEAR_PROJECT'
+export const UPDATE_PROJECT = 'UPDATE_PROJECT'
+export const CLEAR_CURRENT_PROJECT = 'CLEAR_CURRENT_PROJECT'
+export const EXPLORE_PROJECTS = 'EXPLORE_PROJECTS'
+export const PROJECT_LOADED = 'PROJECT_LOADED'
+
+// Todos
+export const CREATE_TODO = 'CREATE_TODO'
+export const TODO_ERROR = 'TODO_ERROR'
+export const GET_TODO = 'GET_TODO'
+export const CLEAR_TODO = 'CLEAR_TODO'

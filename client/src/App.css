@@ -1,0 +1,29 @@
+.alert-danger {
+  margin: 2px;
+  padding: 20px;
+  background-color: rgba(255, 0, 0, 0.7);
+  font-weight: 600;
+  color: white;
+  font-size: larger;
+}
+.login {
+  padding: 5px;
+  margin-top: 7vh;
+}
+.register {
+  margin-top: 7vh;
+  padding: 5px;
+}
+.alert-success {
+  margin: 2px;
+  padding: 20px;
+  background-color: #a8df65;
+  font-weight: 600;
+  color: #3f3f44;
+  font-size: larger;
+}
+
+.todo{
+  background-color:#e8e4e1 ;
+  font-size: 20px;
+}
